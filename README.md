@@ -1,4 +1,4 @@
-# AI-ML-Projects 
+
 1) Banana Market Price & Yield Prediction.
 2) Predictive Models for Online P2P Lending Decisions using Social Profiles.
 3) Time Series Analysis to Forecast SBI Stock Price.
